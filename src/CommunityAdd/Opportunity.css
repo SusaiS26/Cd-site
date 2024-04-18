@@ -1,0 +1,41 @@
+.opportunitycss .formaddev {
+    width: 60%;
+    margin-right: 130px !important;
+    border-radius: 9px !important;
+    height: 65px;
+    background-color: #D19426;
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: initial;
+}
+
+.opportunitycss .opportunityh {
+    margin-left: 40px;
+}
+
+.opportunitycss .titlecssone {
+    margin-top: 40px;
+    margin-right: 85px;
+}
+
+.opportunitycss .txteventcol {
+    font-family: HongKong;
+    color: #000;
+    text-align: center;
+}
+
+.discripte {
+    margin-right: 97px;
+}
+
+@media only screen and (max-width: 767px) {
+    .opportunitycss .discripte {
+        font-family: HongKong;
+        color: #000;
+        text-align: center;
+        margin-right: 97px;
+    }
+
+
+}

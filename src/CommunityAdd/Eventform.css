@@ -1,0 +1,421 @@
+.textrefer .txtfullcadd {
+    display: flex;
+    /* max-width: 1210px;
+    margin-left: auto;
+    margin-right: auto; */
+    /* padding-left: 20px;
+    padding-right: 20px; */
+    border: 1px solid gray;
+    margin: 0 auto;
+    /* width: 80%;*/
+    /* margin-top: 54px;
+    margin-bottom: 55px; */
+}
+
+.textrefer .txtaddnew {
+    font-family: Roboto;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    /* width: 96%; */
+    font-size: 15px;
+}
+
+.txtinputbox {
+    border: 1px solid burlywood;
+    width: 100%;
+    /* margin-left: 43px; */
+    margin-bottom: 10px;
+    border-radius: 5px !important;
+}
+
+.txteventt {
+    padding-top: 10px;
+    /* margin-left: 40px; */
+    margin-bottom: 10px;
+}
+
+.label-head {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.label-headone {
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 12px
+}
+
+.label-headtwo {
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 15px;
+    /* margin-left: 48px; */
+    font-family: Roboto;
+}
+
+.label-headthree {
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 15px;
+    /* margin-left: 48px; */
+    font-family: Roboto;
+}
+
+
+.textrefer .text-area {
+    font-size: 15px;
+    font-family: Roboto;
+    /* margin-left: 45px; */
+    height: 230px;
+}
+
+.textrefer .txteventtime {
+    border: 1px solid #E4E4E4;
+    width: 100%;
+    /* margin-left: 45px; */
+    border-radius: 4px;
+}
+
+.textrefer .event-time-header {
+    font-family: Roboto !important;
+    font-size: 15px;
+    border-bottom: 1px solid #E4E4E4;
+    width: 100%;
+}
+
+/* .textrefer .start-end {
+    margin-left: 30px;
+} */
+
+.textrefer .date-time-calender {
+    /* margin-left: 10px; */
+    margin-right: 10px
+}
+
+.textrefer .alldayevent {
+    /* margin-left: 119px; */
+    margin-bottom: 55px
+}
+
+.textrefer .todate {
+
+
+    margin-top: 10px;
+    margin-right: 10px;
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+.alldayevent .alldayev{
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+
+
+.textrefer .chooseimg {
+    font-family: Roboto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.textrefer .uploadf {
+    margin-top: -37px;
+    cursor: pointer;
+    opacity: 0;
+    height: 49px !important;
+    left: 0;
+    position: absolute;
+    width: 100%;
+
+}
+
+.textrefer .start-end {
+    margin-bottom: 30px;
+}
+
+.textrefer .communitymrg {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+.textrefer .formalign {
+    /* margin-left: 50px; */
+    /* margin-bottom: 40px;
+    margin-top: 40px; */
+    /* width: 91%; */
+    height: 60px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .foreventstatus {
+    /* margin-left: 56px; */
+    /* margin-bottom: 40px;
+    margin-top: 40px; */
+    /* width: 16%; */
+    height: 35px !important;
+    border-radius: 5px !important;
+
+}
+
+.textrefer .foreventstatustime {
+    /* margin-left: 10px; */
+    margin-right: 10px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 16%;
+    height: 35px !important;
+    border-radius: 5px !important;
+}
+.timerefer .foreventstatustime-timewith{
+    margin-right: 10px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 12%;
+    height: 35px !important;
+    border-radius: 5px !important;
+}
+
+.col-12.row {
+    display: flex;
+    align-items: center;
+}
+
+.textrefer .form-label {
+    /* margin-right: 10px;
+    margin-left: 15px; */
+    font-size: 15px;
+    font-family: Roboto;
+    /* font-family: initial; */
+    /* margin-bottom: 70px */
+}
+
+.textrefer .label-cost {
+    /* margin-right: 10px;
+    margin-left: 15px; */
+    font-size: 15px;
+    font-family: Roboto;
+    /* margin-bottom: 70px */
+}
+
+.textrefer .foreventvenue {
+    /* margin-left: 80px; */
+    /* margin-bottom: 40px;
+    margin-top: 40px; */
+    /* width: 30%; */
+    height: 35px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .foreventorgani {
+    /* margin-left: 53px; */
+    /* margin-bottom: 40px;
+    margin-top: 40px; */
+    /* width: 30%; */
+    height: 35px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .addanotherorg {
+    /* margin-left: 150px; */
+    /* width: 28%; */
+    height: 40px;
+    border-radius: 4px !important;
+    /* margin-bottom: 50px; */
+    background-color: #141827;
+    font-size: 15px;
+}
+
+.textrefer .foreventextranal {
+    /* margin-left: 28px; */
+    /* margin-bottom: 40px;
+    margin-top: 40px; */
+    /* width: 60%; */
+    height: 30px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .foreventcost {
+    /* margin-left: 28px; */
+    /* margin-bottom: 40px;
+    margin-top: 40px; */
+    /* width: 60%; */
+    height: 30px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .foreventcost {
+    /* margin-left: 89px; */
+    /* margin-bottom: 111px; */
+    /* margin-top: 40px; */
+    /* width: 20%; */
+    height: 30px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .txtleavebla {
+    margin-top: 5px;
+    /* margin-left: -179px; */
+    font-size: 15px;
+}
+
+.textrefer .addsubmitevent {
+    background-color: #d19426;
+    border-color: #d19426;
+    border-radius: 5px;
+    border-style: solid;
+    color: #000;
+    font-family: Roboto;
+    font-size: 15px!important;
+    font-size: .9rem;
+    font-weight: 600;
+    line-height: 1.2em;
+    padding: 19px 25px;
+}
+
+.textrefer .addsubmitevent:hover {
+    background-color: #D19426;
+    color: #000;
+}
+
+/* styles.css */
+.txteventtime {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.event-time-header {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.formalign {
+    width: 100%;
+}
+
+.para {
+    font-size: 15px;
+    /* margin-left: 230px; */
+    font-family: Roboto;
+}
+
+.delete_icon {
+    font-size: 20px;
+    /* margin-left: 800px; */
+}
+
+.org {
+    width: 50%;
+}
+
+.label-head {
+    font-size: 15px !important;
+    font-family: Roboto;
+    font-weight: 700;
+}
+
+.checkbox-label input {
+    margin-right: 10px;
+    /* Adjust the margin as needed */
+}
+
+.label-text {
+    padding-left: 5px;
+}
+
+.fileimage {
+    WIDTH: 200px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.image-color {
+    width: 195px;
+    height: 51px;
+    background: #134f5c;
+    /* background: #000000; */
+    color: #fff;
+    padding-top: 15px;
+    position: relative;
+}
+
+.fileimage .choseimg {
+    font-size: 14px;
+    padding-left: 48px;
+    font-weight: 500;
+}
+
+.starten {
+    margin-right: 10px;
+    font-family: 'Roboto';
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+
+.start-envents {
+    font-size: 15px;
+    font-family: 'Roboto';
+}
+.event-to {
+    max-width: 5.333333% !important;
+}
+
+.event_form_height{
+    margin-top: 150px;
+}
+.time-width {
+    width: fit-content !important;
+}
+.input-container {
+    max-height: 100px; /* Adjust the height to your desired value */
+    overflow-y: scroll;
+}
+
+.event_form_height .inputlogo {
+    font-size: 20px;
+    width: 100%;
+    line-height: 1.3;
+    font-weight: 400;
+}
+
+.quillrefdoc{
+    height: 200px;
+}
+.event_desc_bot{
+    margin-bottom: 50px;
+}
+
+/* <description css */
+span.ql-size.ql-picker {
+    display: none !important;
+}
+.ql-editor p {
+    font-size: 18px !important;
+}
+
+@media only screen and (max-width: 767px) {
+    .date-height {
+       height: 70px !important;
+    }
+}
+
+.form-controlone1 {
+    display: block;
+    width: 100%;
+    height: 40px !important;
+    padding: 0.375rem 0.75rem;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #FAFAFA;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}

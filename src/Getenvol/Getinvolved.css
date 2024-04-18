@@ -1,0 +1,65 @@
+.getinvocss #myDiv {
+    background-image: url('../Images/Fullbackground.jpg');
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.getinvocss .fullbodymarg-get {
+    margin-top: 0px;
+}
+
+.getinvocss .headerfull-css .alllogo {
+    background-color: #fff;
+    width: 100%;
+    height: 30px;
+}
+
+.getinvocss .txtmem {
+    text-align: center;
+    color: #ffffff;
+    padding-top: 200px;
+    font-size: 47px;
+}
+
+.getinvocss .profilecss {
+    font-size: 15px;
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+
+.getinvocss .dvpformmrg {
+    text-align: center;
+    color: #000;
+}
+
+.getinvocss .imgvieimageget {
+    width: 90%;
+    height: 340px;
+}
+
+.getinvocss .imagetop {
+    margin-top: 60px;
+}
+
+.getinvocss .getinvolmrg-top {
+
+    margin-top: 105px;
+}
+
+.getinvocss .contact {
+    margin-bottom: 40px;
+    margin-top: 12px;
+    display: inline-block;
+    margin-right: 60px;
+}
+
+.getinvocss .getinvfooter {
+    margin-top: 30px;
+}
+
+.remove-underline {
+    text-decoration: none;
+    color: inherit;
+    /* This will inherit the color from the parent */
+}

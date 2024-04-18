@@ -1,0 +1,466 @@
+.formonecontain .inputlogo {
+    font-size: 18px;
+    width: 100%;
+    line-height: 1.3;
+    font-weight: 400;
+}
+
+.formonecontain .areumrg {
+    margin-bottom: 20px;
+}
+
+.formonecontain .gsection_title {
+    font-size: 30px;
+    font-weight: 400;
+    border-bottom: 1px solid #ccc;
+    padding: 0 16px 8px 0;
+}
+
+.formonecontain .label-head {
+    font-size: 15px !important;
+    font-family: Roboto;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.formonecontain .uploadf {
+    margin-top: -37px;
+    cursor: pointer;
+    opacity: 0;
+    height: 49px !important;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.formonecontain .fileimage .choseimg {
+    font-size: 14px;
+    padding-left: 0px;
+    font-weight: 500;
+}
+
+.addresht .addresheight {
+    height: 140px !important;
+}
+
+.formthreeht {
+    margin-bottom: 10px;
+}
+
+.formtwo .label-head {
+    margin-bottom: 15px;
+}
+
+.formtwo .contactmrgbottom {
+    margin-bottom: 35px
+}
+
+.formtwo .bg-gradient-secondary {
+
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-right: 20px !important;
+    padding-top: 12px;
+    height: 55px;
+    width: 110px;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 500;
+
+}
+
+.bg-gradient-secondary-next {
+    border-style: solid;
+    color: #000000;
+    background-color: #D19426;
+    border-radius: 5px;
+    margin-right: 20px !important;
+    padding-top: 0px;
+    height: 40px;
+    height: 55px;
+    width: 110px;
+    border-color: #d19426;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+.formthree .gsection_title {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Roboto;
+    line-height: 1.2em;
+}
+
+.bg-gradient-secondary-firstnext {
+    border-style: solid;
+    color: #000000;
+    background-color: #D19426;
+    border-radius: 5px;
+    margin-right: 20px !important;
+    padding-top: 0px;
+    height: 40px;
+    height: 55px;
+    width: 110px;
+    border-color: #d19426;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.formthree .bg-gradient-secondary-formthree {
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-right: 20px !important;
+    padding-top: 0px;
+    height: 55px;
+    width: 110px;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+
+.formonecontain .productrange {
+    /* margin-left: 7px; */
+}
+
+.formthree .addinfo {
+    margin-bottom: 35px
+}
+
+.formonecontain .artisanarudrp {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--ast-border-color);
+    border-radius: 2px;
+    background: #fafafa;
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 13px;
+    border: 1px solid #DDDDDD;
+    margin-bottom: 40px;
+    -webkit-appearance: none;
+}
+
+/* .formonecontain .border-div::after {
+    content: '\25BC';
+    position: absolute;
+    top: 54%;
+    right: 20px;
+    transform: translateX(-162%);
+
+} */
+.selectwrapper ::after {
+    content: "\25BC" !important;
+    /* Unicode character for a down-pointing triangle */
+    position: absolute;
+    top: 55%;
+    right: 30px;
+    /* Adjust the distance from the right as needed */
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.selectwrapperfour ::after {
+    content: "\25BC" !important;
+    position: absolute;
+    top: 55%;
+    right: 30px;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.formtwo .gsection_title {
+    padding-left: calc(var(--bs-gutter-x) * .0);
+}
+
+.formthree .gsection_title {
+    padding-left: calc(var(--bs-gutter-x) * 0.0);
+}
+
+
+.artisanarudrpform {
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--ast-border-color);
+    border-radius: 2px;
+    background: #fafafa;
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 11px;
+    border: 1px solid #DDDDDD;
+    width: 100%;
+    -webkit-appearance: none;
+}
+
+.formonecontain .artisanarudrp:focus {
+    border-color: #007bff;
+    /* Change the border color on focus to blue */
+    outline: none;
+    /* Remove the default focus outline (not recommended for accessibility) */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    /* Add a box shadow on focus */
+}
+
+.formonecontain .crafcate {
+    text-align: center;
+}
+
+.custom-select {
+    position: relative;
+    display: inline-block;
+}
+
+.custom-select select {
+    -webkit-appearance: none;
+    /* Remove default arrow in Safari */
+    -moz-appearance: none;
+    /* Remove default arrow in Firefox */
+    appearance: none;
+    /* Remove default arrow in other browsers */
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.custom-select-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 5px;
+    pointer-events: none;
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    border-radius: 0 5px 5px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+
+.selectwrapperformtwostate ::after {
+    content: "\25BC" !important;
+    position: absolute;
+    top: 80%;
+    right: 30px;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .selectwrapper ::after {
+        content: "\25BC" !important;
+        position: absolute;
+        top: 55%;
+        right: 30px;
+        transform: translateY(-50%);
+        pointer-events: none;
+    }
+
+    .selectwrapperfour ::after {
+        content: "\25BC" !important;
+        position: absolute;
+        top: 55%;
+        right: 17px;
+        transform: translateY(-50%);
+        pointer-events: none;
+    }
+
+    .artisanarudrpform {
+        border-width: 1px;
+        border-style: solid;
+        border-color: var(--ast-border-color);
+        border-radius: 2px;
+        background: #fafafa;
+        font-size: 15px;
+        margin-bottom: 0;
+        margin-top: 0;
+        padding: 11px 20px 11px 11px;
+        border: 1px solid #DDDDDD;
+        width: 100%;
+        -webkit-appearance: none;
+    }
+
+    .formonecontain .artisanarudrp {
+        border-width: 1px;
+        border-style: solid;
+        border-color: var(--ast-border-color);
+        border-radius: 2px;
+        background: #fafafa;
+        font-size: 15px;
+        margin-bottom: 0;
+        margin-top: 0;
+        padding: 11px 20px 11px 11px;
+        border: 1px solid #DDDDDD;
+        margin-bottom: 40px;
+        -webkit-appearance: none;
+    }
+    .selectwrapperformtwostate ::after {
+        content: "\25BC" !important;
+        position: absolute;
+        top: 78%;
+        right: 15px;
+        transform: translateY(-50%);
+        pointer-events: none;
+    }
+}
+
+
+
+.uploaded-image-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .thumbnail {
+    width: 100px; 
+    height: auto; 
+    margin-right: 10px; 
+  }
+  
+  .img-filename {
+    font-size: 14px; 
+    margin-top:12px ;
+  }
+  
+  .img-delete-icon {
+    cursor: pointer;
+    font-size: 20px;
+    color:#134F5C; 
+    margin-bottom: 18px;
+    margin-left: 15px ;
+  }
+  
+/* Nithya */
+  /* // form one css for add description box with thumbnail image  */
+  /* CSS styles for the image container */
+.image-container {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+  }
+ 
+  
+  .img-description-input:hover {
+    border:1px solid black 
+  }
+  textarea.img-description-input {
+    resize: none; 
+    margin-top: 17px;
+    height: 67px;
+    width:100%;
+    margin-left: 20px;
+    border: none;
+    outline: none;
+    color: #333;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: 400;
+  }
+  
+  textarea.img-description-input:focus {
+    border: none;
+    outline: none;
+  }
+
+  .delete_icon_left{
+    margin-left: 35px;
+  }
+
+
+
+  .css-1p3m7a8-multiValue {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 0;
+    background-color: hsl(0, 0%, 90%);
+    border-radius: 2px;
+    margin: 2px;
+    box-sizing: border-box;
+    background-clip: padding-box;
+    background-color: #eee;
+    background-image: linear-gradient(#f4f4f4 20%, #f0f0f0 50%, #e8e8e8 52%, #eee);
+    background-repeat: repeat-x;
+    background-size: 100% 19px;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    box-shadow: inset 0 0 2px #fff, 0 1px 0 rgba(0, 0, 0, .05);
+    color: #333;
+    cursor: default;
+    line-height: 15px;
+    margin: 3px 5px 3px 0;
+    max-width: 100%;
+    padding: 3px 20px 3px 5px;
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.gform_wrapper.gravity-theme .chosen-container-multi .chosen-choices li.search-field input [ type=text] {
+    background: transparent !important;
+    border: 0 !important;
+    border-radius: 0;
+    box-shadow: none;
+    color: #999;
+    font-family: sans-serif;
+    font-size: 100%;
+    height: 25px;
+    line-height: normal;
+    margin: 1px 0;
+    outline: 0;
+    padding: 0;
+    width: 25px;
+}
+
+.css-13cymwt-control {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #FAFAFA !important;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.css-1hb7zxy-IndicatorsContainer {
+    display: none !important;
+}
+
+  .custom-textarea:not(:focus) {
+    border: none; 
+    outline: none !important;
+  }
+  .custom-textarea:hover {
+    border: 1px solid black; 
+  }
+  
+@media only screen and (max-width: 767px) {
+    .thumbnail-mobile {
+        height: 62px;
+        width: 211px;
+    }
+}
+.text_size{
+    font-size: 16px !important;
+}
+
+/* nithya css */
+div.mt-4.craftcss::after{
+    color:white;
+}

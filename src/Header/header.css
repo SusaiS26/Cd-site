@@ -1,0 +1,246 @@
+@font-face {
+    font-family: 'Hong Kong';
+    src: url('../Fonts/FontsFree-Net-ho16.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../Fonts/FontsFree-Net-Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Styling for the transparent navbar */
+.navbar {
+    transition: background-color 0.3s ease;
+    background-image: none;
+    /* Remove background image */
+    font-family: 'Hong Kong', sans-serif;
+    font-weight: 400;
+
+}
+
+.navbar-yellow {
+    background-color: #d19426 !important;
+}
+
+.nav-link-textblack {
+    color: black !important;
+}
+
+.nav-link-textwhite {
+    color: white !important;
+}
+
+/* Styling for the parallax effect */
+.parallax {
+    background-image: url('../Images/cd_backgroundimage.png');
+    /* background-image: url('C:\\Users\\Dell\\Downloads\\test-app\\src\\assets\\cd_backgroundimage.png'); */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 497px;
+    /* Adjust this as needed */
+}
+
+.parallax-content {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    /* Center vertically */
+    left: 50%;
+    /* Center horizontally */
+    transform: translate(-50%, -50%);
+    /* Center both horizontally and vertically */
+    width: 100%;
+    /* Make the container full width */
+    color: white;
+    /* Text color for better visibility */
+    z-index: 1;
+    /* Ensure the text is above the background */
+}
+
+.parallax-icons-container {
+    position: fixed;
+    top: -5px;
+    left: 0;
+    right: 0;
+    background-color: white;
+    /* Background color for icons container */
+}
+
+/* Styling for the icons */
+.parallax-icons {
+    text-align: right;
+    /* padding: 20px; */
+    padding: 20px 3px 20px 0px;
+    margin-right: 20px;
+    /* Adjust the padding as needed */
+}
+
+/* Style the icons (assuming you're using Font Awesome) */
+.parallax-icons i {
+    font-size: 24px;
+    /* Adjust the icon size as needed */
+    color: white;
+    /* Icon color */
+    margin-left: 10px;
+    /* Adjust the margin between icons as needed */
+}
+
+.get_involved_header {
+    font-family: 'Hong Kong', sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.logo_img{
+    height: 43px;
+}
+
+p.text-center.header-content {
+    font-family: 'Hong Kong', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: white;
+    margin-top: 10%;
+}
+
+p.text-center.header-text {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+
+
+/* Media query to hide background image on smaller screens */
+@media (max-width: 768px) {
+    .parallax {
+        background-color: #CC7722 !important;
+        min-height: 768px;
+        background-size: cover;
+        transform: translateY(-25px);
+    }
+    p.text-center.header-content {
+        font-family: 'Hong Kong', sans-serif;
+        font-size: 50px;
+        font-weight: 400;
+        color: white;
+        margin-top: 40%;
+    }
+
+
+}
+
+
+
+
+
+
+.header-display {
+    display: flex;
+}
+
+.headerfull-css .getinvol {
+    color: white !important;
+    font-family: Roboto;
+    font-weight: 500;
+}
+ .getinvol {
+    background: #134f5c;
+    border-radius: 4px;
+    color: white !important;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.getinvol1 {
+    /* color: white !important;
+    font-family: Roboto;
+    font-weight: 500; */
+    color: #000;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 19px;
+    margin-left: 15px;
+}
+
+.headerfull-css .getinvol:hover {
+    color: white !important;
+}
+
+.getinvol:hover {
+    /* color: white !important; */
+    color: #000 !important;
+}
+
+.cssheightdownar {
+    margin-top: 34px;
+}
+
+.scrollbanner_height {
+    margin-top: 63px;
+}
+
+.iconbanner_height {
+    margin-bottom: 34px;
+}
+
+.headerlipad {
+    padding: 0px 10px;
+}
+
+.navbar-nav .dropdown-menu {
+    background: #134F5C !important;
+    position: static;
+    float: none;
+}
+
+.dropdown-item {
+    display: block;
+    color: #fff !important;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+
+
+.dropdown-item:focus, .dropdown-item:hover{
+    background-color: unset !important;
+    color: #fff !important;
+}
+.getinvolvedbtn_a{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+.getinvolvedbtn_a:hover{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.mobile-menu-icon {
+    color: #fff; 
+    font-size: 24px;
+  }
+  
+
+  .header-img-1 {
+    height: auto !important;
+}

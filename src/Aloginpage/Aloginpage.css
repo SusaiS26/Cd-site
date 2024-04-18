@@ -1,0 +1,149 @@
+#myDivone {
+    background-image: url('../Images/Fullbackground.jpg');
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+}
+
+.signindcsfirst {
+    margin-top: 16rem;
+    margin-bottom: 15px;
+    background-color: beige;
+    padding: 35px;
+    /* padding-top: 65px; */
+    border-radius: 23px;
+    /* margin-left: 50px; */
+    /* height: 415px; */
+}
+@media (max-width: 768px) {
+    .googlepcs {
+       height: 30px !important;
+    }
+}
+.fullbodysigin .signindcssecond {
+    width: 10%;
+    background-color: aliceblue;
+    height: 184px;
+    margin-top: 15px;
+    border-radius: 13px;
+}
+
+.fullbodysigin .logfacecss {
+    /* margin-left: 10px; */
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.fullbodysigin .logfacecssone {
+    margin-left: 35px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.fullbodysigin .signindcsone {
+    border: 2px solid rgb(227, 63, 175);
+    /* Set border width and color */
+    padding: 90px;
+    /* Optional: Add some padding inside the div for better visual */
+}
+
+
+
+.fullbodysigin .emailid {
+    font-size: 15px;
+    /* color: white; */
+    font-family: Roboto;
+}
+
+.fullbodysigin .btnsignin {
+    font-size: 18px !important;
+    
+}
+
+.fullbodysigin .formwith {
+    width: 285px !important;
+}
+
+.fullbodysigin .fb {
+    background-color: #3B5998 !important;
+    color: white;
+    padding: 12px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.fullbodysigin .twitter {
+    background-color: #55ACEE !important;
+    color: white;
+}
+
+.fullbodysigin .google {
+    background-color: #dd4b39 !important;
+    color: white;
+}
+
+.fullbodysigin .signindcs input,
+.btn {
+    width: 100%;
+    /* padding: 19px !important; */
+    border-radius: 4px !important;
+    margin: 5px 0 !important;
+    font-family: Roboto;
+}
+
+
+.fullbodysigin .txtloginface {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.fullbodysigin .fbcssdesign {
+    color: #fff !important;
+    font-size: 15px !important;
+    margin-top: 25px !important;
+}
+
+.fullbodysigin .siginform {
+    margin-top: 30px !important;
+}
+
+.fullbodysigin .sinupcss {
+    font-size: 17px;
+    margin-top: 30px !important;
+    font-family: Roboto;
+}
+
+.fullbodysigin .userlist {
+    margin-bottom: 20px
+}
+
+.fullbodysigin .txtbold {
+    font-weight: 700;
+    font-family: Roboto;
+}
+
+.fullbodysigin .btn-block {
+    /* width: 97% !important; */
+    margin-top: 15px;
+    border-radius: 6px;
+}
+
+.fullbodysigin .googlepcs {
+    /* margin-right: 9px;
+    margin-left: 30px;
+    width: 32px;
+    height: 30px;
+    margin-bottom: 10px; */
+    cursor: pointer;
+
+}
+
+.fullbodysigin .signwithsocial {
+    font-size: 20px;
+    /* margin-left: 10px; */
+    font-family: Roboto;
+}

@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hongkong&display=swap');
+
+body {
+    font-family: 'Roboto'; /* Apply the Roboto font to the entire component */
+}
+/* Styling for the transparent navbar */
+.navbar {
+    transition: background-color 0.3s ease;
+    background-image: none; /* Remove background image */
+    font-family: 'HongKong';
+    font-weight: 400;
+    
+}
+
+.navbar-yellow {
+    background-color: #CC7722 !important;
+}
+
+.nav-link-textblack{
+    color: black !important;
+}
+
+.nav-link-textwhite{
+    color: white !important;
+}
+
+/* Styling for the parallax effect */
+.parallax {
+    /* background-image: url('D:\Artisan Project\CD-Site_UI\src\Images\Fullbackground.jpg'); */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px; /* Adjust this as needed */
+}
+
+.parallax-content {
+    text-align: center;
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Center both horizontally and vertically */
+    width: 100%; /* Make the container full width */
+    color: white; /* Text color for better visibility */
+    z-index: 1; /* Ensure the text is above the background */
+  }
+
+/* Custom CSS for additional content */
+/* .container {
+    background-color: transparent;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+} */
+
+
+
+
+/* Media query to hide background image on smaller screens */
+@media (max-width: 768px) {
+    .parallax {
+        background-color: #CC7722 !important;
+    }
+   
+}
+
+.getinvolvedbtn_a{
+    color: #fff !important;
+}
+.getinvolvedbtn_a:hover{
+    color: #fff !important;
+}

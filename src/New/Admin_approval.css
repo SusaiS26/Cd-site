@@ -1,0 +1,222 @@
+.w3-container {
+  text-align: center;
+  margin-top: 20px;
+  /* margin-left: 100px; */
+  font-family: Roboto;
+}
+
+.w3-bar {
+  /* background-color: #333; */
+  overflow: hidden;
+  font-family: Roboto;
+  margin-left: 330px
+}
+
+.w3-bar button {
+  font-size: 20px;
+  font-family: Roboto;
+  float: left;
+  display: block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  background-color: #dbe91f;
+  /* background-color: #333; */
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.w3-bar button.active {
+  background-color: #4CAF50;
+  font-family: Roboto;
+}
+
+
+.w3-container.city {
+  display: none;
+  padding: 20px;
+  border-top: none;
+  /* border-top: 1px solid #ccc; */
+  font-family: Roboto;
+}
+.city {
+  display: none;
+  padding: 20px;
+  border-top: none;
+  /* border-top: 1px solid #ccc; */
+  font-family: Roboto;
+}
+.w3-container.city.show {
+  display: block;
+  font-family: Roboto;
+}
+.city.show {
+  display: block;
+  font-family: Roboto;
+}
+.show {
+  display: block;
+  font-family: Roboto;
+}
+
+h2 {
+  color: #333;
+  font-family: Roboto;
+}
+
+p {
+  color: #666;
+  font-family: Roboto;
+}
+
+.button {
+  font-size: 15px;
+  font-family: Roboto;
+}
+body{
+  font-family: Roboto;
+  font-size: 15px;
+}
+.w3-button{
+  font-size: 15px;
+}
+th{
+  font-size: 14px;
+}
+td{
+  border-right: 1px solid #dedede;
+  font-size: 13px;
+}
+
+/* Custom button styles */
+.button-highlighted {
+  background-color: rgb(243, 220, 18); /* Change background color to red */
+  border-radius: 5px; /* Add a border radius of 5px */
+}
+
+.table-responsive{
+border: 1px solid #dedede;
+}
+
+
+/* Nithya css */
+.social-icons-container {
+display: flex;
+flex-direction: row;
+
+}
+
+/* Add spacing between icons */
+.social-icons-container > *:not(:last-child) {
+margin-right: 10px; 
+
+}
+.social-header {
+
+margin-left: 150px;
+}
+
+.close-button {
+background-color:#D19426;
+width: 24px;
+height: 24px;
+padding: 2px;
+z-index: 1;
+color: white;
+
+margin-left: 10px !important;
+font-Size: '26px'
+}
+
+
+.social-share-modal {
+  height: 110px !important;
+  background-color: #fff !important;
+  padding: 10px !important;
+  border-radius: 5px !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  z-index: 1001;
+}
+
+.but-share{
+
+  float:right;
+  background-color:#D19426;
+  height:15px;
+  width:15px;
+  color:#070000;
+  font-size: 10px;
+  font-weight: bold;
+}
+/* Admin-approval css start here */
+.btn.btn-outline-css {
+border-color: #134F5C;
+color: #134F5C;
+padding: 3px 10px;
+font-weight: 500;
+margin-right: 10px !important;
+
+
+}
+
+
+.btn.btn-outline-css.active {
+background-color: #134F5C; 
+color: #FFFFFF; 
+border-color: #134F5C;
+}
+
+a.page-link.custom-pagination-link {
+color: #FFFFFF; 
+background-color: #134F5C; 
+}
+
+a.page-link.custom-pagination-link.active {
+color: #ffffff; 
+background-color: #134F5C; 
+}
+
+
+/* nithya */
+/* social share css start here */
+.social-header {
+  position: relative;
+}
+
+.close-button {
+  position: absolute;
+  top: 0px; 
+  right: 0px; 
+  cursor: pointer;
+}
+
+/* SocialShareModal.css */
+
+
+
+
+.button.copy-button:hover{
+
+background-color: #134F5C;
+}
+
+/* Style the round-icon container */
+.round-icon {
+  width: 35px; 
+  height: 30px;
+  background-color: #134F5C;
+  border-radius: 50%; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; 
+  cursor: pointer;
+ 
+}
+
+/* Optionally, add a hover effect */
+.round-icon:hover {
+  background-color: #134F5C; 
+}

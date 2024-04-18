@@ -1,0 +1,89 @@
+.without-box {
+  border: none;
+  padding: -3px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  padding-left: 135px !important;
+}
+
+.search-box-container {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.search-box {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 5px;
+  outline: none;
+  font-size: 10px;
+  margin-left: 25px;
+  font-weight: bold;
+}
+
+/* Optional: Additional styling for placeholder text */
+.search-box::placeholder {
+  color: #0a0808;
+}
+
+.btnwant {
+  width: 100px;
+  height: 35px;
+}
+
+.btnsizeart {
+  margin-left: 147px;
+  margin-top: 20px;
+}
+
+.btnsizeart .btnstyle {
+  width: 140px;
+  border-radius: 10px
+}
+
+.txtprsize {
+  font-size: 15px;
+  font-weight: revert;
+ 
+}
+
+.dvpformmrg {
+
+  margin-top: 5px;
+  margin-left: 50px
+}
+
+.imgvieimage {
+  width: 395px;
+  margin-left: 50px;
+  margin-right: 65px
+}
+
+.txtbottomt {
+  height: 112px;
+  background-color: #D19426;
+}
+
+.textcenter {
+  padding-top: 45px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.btnstyle {
+  margin-top: 35px;
+  border-radius: 7px !important;
+  padding: 8px !important;
+  width: 131px;
+  background-color: #234F5C !important;
+  margin-left: 12px;
+  border: none !important;
+  font-size: 16px !important;
+}.cssheight{
+  height: 14px
+}
+

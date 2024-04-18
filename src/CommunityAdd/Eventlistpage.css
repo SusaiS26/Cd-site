@@ -1,0 +1,438 @@
+.addformfullcss .txtmem {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 160px;
+    font-size: 47px;
+    font-family: Roboto;
+}
+
+.txtbottomt {
+    background-color: #D19426;
+    padding: 20px
+}
+
+.addformfullcss .txteventcol {}
+
+
+.addformfullcss .titlecssone {
+    margin-top: 80px;
+    margin-bottom: 50px
+}
+
+.addformfullcss .eventcursor {
+    cursor: pointer;
+}
+
+.addformfullcss .formaddev {
+    border-radius: 9px !important;
+    background-color: #D19426;
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Roboto;
+    padding: 5px 5px;
+}
+
+.addformfullcss .formaddev:hover {
+    background-color: #D19426;
+    color: black;
+}
+
+.addformfullcss .searchevent {
+
+    border: 1px solid #E4E4E4;
+    /* height: 70px; */
+    width: 100% !important;
+    /* margin-left: 76px; */
+    /* margin-bottom: 45px;
+    margin-top: 30px */
+}
+
+.searchevent {
+
+    border: 1px solid #E4E4E4;
+}
+
+.addformfullcss .inptsearch {
+    width: 73%;
+    height: 60px;
+    border: none;
+    margin-left: 15px;
+    padding: 5px 5px 10px 0;
+    font-size: 15px;
+}
+
+.inptsearch {
+    width: 73%;
+    height: 60px;
+    border: none;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.inptsearch1 {
+    width: 95%;
+    height: 60px;
+    border: none;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+input.inptsearch:focus-visible {
+    outline: none;
+}
+
+input.inptsearch1:focus-visible {
+    outline: none;
+}
+
+.inptsearch_calender {
+    width: 65%;
+    height: 60px;
+    border: none;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.search-icon_calender {
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+.search-icon_calender {
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+.addformfullcss .search-icon1 {
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+.search-icon1 {
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+.btnfinevent_calender {
+    background-color: #D19426;
+    /* width: 10;
+    width: 13%; */
+    height: 45px;
+    border-radius: 5px;
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.addformfullcss .btnfinevent {
+    background-color: #D19426;
+    /* width: 10;
+    width: 13%; */
+    height: 45px;
+    border-radius: 5px;
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.btnfinevent {
+    background-color: #D19426;
+    /* width: 10;
+    width: 13%; */
+    height: 45px;
+    border-radius: 5px;
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.addformfullcss .inline-p {
+    display: inline;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: Roboto;
+    color: black !important;
+}
+
+.inline-p {
+    display: inline;
+    /* margin-left: 15px;
+    margin-right: 15px; */
+    font-size: 20px;
+    cursor: pointer;
+    font-family: Roboto;
+    color: black !important;
+}
+
+.inline-p_calender {
+    display: inline;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: Roboto;
+    color: black !important;
+}
+
+.addformfullcss .todayst {
+    border: 1px solid;
+    background-color: #FFFFFF;
+    /* width: 6%; */
+    border-radius: 5px;
+    /* margin-left: 135px; */
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 26;
+}
+
+.addformfullcss .txttodatcs {
+    margin: -6px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+
+.addformfullcss .clendarconta {
+    margin-bottom: 30px;
+}
+
+.addformfullcss .Today-calender {
+    /* margin-left: 20px; */
+    border: 1px solid;
+    font-size: 30px;
+    font-weight: 450;
+    font-family: Roboto;
+}
+
+.addformfullcss .txtlinejan {
+    border-bottom: 1px solid red;
+    margin-bottom: 10px;
+}
+
+.addformfullcss .januaryp {
+    font-size: 22px;
+    margin-left: 50px;
+}
+
+.addformfullcss .txtmarfri {
+    /* margin-left: 150px; */
+    margin-bottom: 160px;
+    margin-top: 30px;
+
+}
+
+.addformfullcss .txtparagrap {
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.addformfullcss .txtpavinta {
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.addformfullcss .imgartimag {
+    width: 50%;
+    /* margin-left: -20px; */
+}
+
+.addformfullcss .txtmarfrifri {
+    /* margin-left: 130px; */
+    font-family: Roboto;
+    font-weight: 600;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
+.addformfullcss .txtprojectf {
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+
+.addformfullcss .txtsubforup {
+    width: 100%;
+    margin-top: 40px;
+    margin-left: 80px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.addformfullcss .Subscriber {
+    width: 11%;
+    margin-right: 130px !important;
+    border-radius: 7px !important;
+    height: 65px;
+    background-color: #234F5C;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Roboto;
+    margin-top: 25px !important;
+
+}
+
+.addformfullcss .evetcolor {
+    background-color: #EEEFF0;
+    height: 46px;
+    width: 80%;
+    margin-left: 125px;
+    font-size: 20px;
+}
+
+.addformfullcss .noupcome {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Roboto;
+}
+
+.inpsubupdate {
+    width: 200%;
+    height: 65px;
+    margin-top: 25px;
+    margin-right: 35px;
+    font-size: 20px;
+}
+
+
+
+/* <Arun> */
+.opportunity-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.opportunity-card {
+    /* width: calc(33.33% - 20px); Adjust the width as needed for 3 cards in a row */
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 25px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.opportunity-card h3 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.cssheight {
+    margin-right: 5px;
+    font-size: 16px;
+}
+
+.txtprsize {
+    font-size: 16px;
+}
+
+.imgartimag {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.opportunity-card-image-container {
+    position: relative;
+}
+
+.corner-button {
+    position: absolute;
+    right: -10px;
+    padding: 6px;
+    font-size: 10px;
+    border-radius: 5px;
+    top: -13px;
+    background: #D19426;
+    color: black;
+    font-weight: 600;
+}
+
+.blurred-content {
+    filter: blur(5px);
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+.cdshowandbtn .listing-link {
+    margin-bottom: 30px;
+    text-align: right;
+}
+
+.cdshowandbtn .listing-link p {
+    display: inline-block;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    padding: 20px 24px;
+    background-color: #D19426;
+    border-radius: 5px;
+}
+
+.closeicon {
+    float: right !important;
+}
+
+.bannerevent .texbannerevent {
+    font-family: Roboto;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: justify;
+    padding: 0px 10px 0px 0px;
+}
+
+.br-mrg-top{
+    margin-top: 60px !important;
+  }
+
+.list_a {
+    display: inline !important;
+    margin-left: 11px !important;
+    margin-right: 15px !important;
+    font-size: 20px !important;
+    cursor: pointer !important;
+    font-family: Roboto !important;
+    color: black !important;
+}
+
+@media only screen and (max-width: 500px) {
+    .rbc-toolbar span:nth-child(1) {
+        margin-bottom: 20px;
+    }
+
+    .rbc-toolbar span:nth-child(3) {
+        margin-right: 120px;
+    }
+
+    span.rbc-toolbar-label {
+        transform: translate(0px, -13px);
+    }
+
+    .inptsearch1 {
+        width: auto !important;
+    }
+}

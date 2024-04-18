@@ -1,0 +1,250 @@
+.textrefer .txtfullcadd {
+    display: flex;
+    max-width: 1210px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 54px;
+    margin-bottom: 55px;
+}
+
+.textrefer .txtaddnew {
+    font-family: Roboto;
+    border-bottom: 1px solid black;
+    padding-bottom: 28px;
+    width: 96%;
+    font-size: 20px;
+}
+
+.txtinputbox {
+    border: 1px solid burlywood;
+    width: 100%;
+    margin-left: 43px;
+    margin-bottom: 10px;
+    border-radius: 5px !important;
+}
+
+.txteventt {
+    padding-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.label-head {
+    font-family: Roboto;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.label-headone {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 48px
+}
+
+.label-headtwo {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 48px;
+    font-family: HongKong;
+}
+
+.label-headthree {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 48px;
+    font-family: HongKong;
+}
+
+
+.textrefer .text-area {
+    margin-left: 45px;
+    height: 230px;
+}
+
+.textrefer .txteventtime {
+    border: 1px solid #E4E4E4;
+    width: 100%;
+    margin-left: 45px;
+    border-radius: 4px;
+}
+
+.textrefer .event-time-header {
+
+    border-bottom: 1px solid #E4E4E4;
+    width: 100%;
+}
+
+.textrefer .start-end {
+    margin-left: 30px;
+}
+
+.textrefer .date-time-calender {
+    margin-left: 10px;
+    margin-right: 10px
+}
+
+.textrefer .alldayevent {
+    margin-left: 119px;
+    margin-bottom: 55px
+}
+
+.textrefer .todate {
+    /* font-family: monospace; */
+    font-family: HongKong;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.textrefer .chooseimg {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.textrefer .uploadf {
+    width: 25%;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    margin-left: 350px
+}
+
+.textrefer .communitymrg {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+.textrefer .formalign {
+    margin-left: 50px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 82%;
+    height: 60px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .foreventstatus {
+    margin-left: 56px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 16%;
+    height: 35px !important;
+    border-radius: 5px !important;
+
+}
+
+.textrefer .foreventstatustime {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 16%;
+    height: 35px !important;
+    border-radius: 5px !important;
+}
+
+.col-12.row {
+    display: flex;
+    align-items: center;
+}
+
+.textrefer .form-label {
+    margin-right: 10px;
+    margin-left: 15px;
+    font-size: 15px;
+    font-family: HongKong;
+    /* font-family: initial; */
+    /* margin-bottom: 70px */
+}
+
+.textrefer .label-cost {
+    margin-right: 10px;
+    margin-left: 15px;
+    font-size: 15px;
+    font-family: HongKong;
+    margin-bottom: 70px
+}
+
+.textrefer .foreventvenue {
+    margin-left: 80px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 30%;
+    height: 35px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .foreventorgani {
+    margin-left: 53px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 30%;
+    height: 35px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .addanotherorg {
+    margin-left: 150px;
+    width: 28%;
+    height: 40px;
+    border-radius: 4px !important;
+    margin-bottom: 50px;
+    background-color: #141827;
+    font-size: 13px;
+}
+
+.textrefer .foreventextranal {
+    margin-left: 28px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 60%;
+    height: 30px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .foreventcost {
+    margin-left: 28px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 60%;
+    height: 30px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .foreventcost {
+    margin-left: 89px;
+    margin-bottom: 111px;
+    margin-top: 40px;
+    width: 20%;
+    height: 30px !important;
+    border-radius: 5px !important;
+}
+
+.textrefer .txtleavebla {
+    margin-top: 5px;
+    margin-left: -179px;
+    font-size: 15px;
+}
+
+.textrefer .addsubmitevent {
+    margin-left: 300px;
+    width: 28%;
+    height: 55px;
+    border-radius: 4px !important;
+    margin-bottom: 90px;
+    margin-top: 70px;
+    background-color: #334AFF;
+    font-size: 13px;
+}

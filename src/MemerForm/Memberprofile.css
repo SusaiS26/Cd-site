@@ -1,0 +1,137 @@
+.memberprofilecss .profilecss {
+    font-size: 15px;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    font-family: Roboto;
+}
+
+.memberprofilecss .imagesprofile {
+    border-radius: 80px;
+}
+
+.memberprofilecss .border-bottom {
+    border-bottom: 15px solid red !important;
+}
+
+.memberprofilecss .under-line {
+
+    border-bottom: 1px solid;
+    margin-top: 35px;
+}
+
+.memberprofilecss .text-line {
+    border-bottom: 1px solid !important;
+    border: none;
+}
+
+.memberprofilecss .texttilede {
+    /* border-bottom: 1px solid; */
+    /* width: 38%; */
+    font-family: Roboto;
+    font-size: 17px;
+}
+
+.memberprofilecss .selectoptiont {
+    width: 180px;
+    height: 26px;
+    border: none;
+    border-bottom: 1px solid;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.memberprofilecss .fielddrp {
+    margin-left: 16px;
+    margin-top: 10px
+}
+
+.memberprofilecss .areaofwork {
+    font-size: 15px;
+    color: #907d7d;
+    font-family: Roboto;
+}
+
+.memberprofilecss .nonedit {
+    font-size: 15px;
+    color: #907d7d;
+    font-family: Roboto;
+}
+
+.memberprofilecss .textonepr {
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.memberprofilecss .mempromt {
+    margin-top: 65px;
+    margin-bottom: 20px
+}
+
+.memberprofilecss .cssfontheight {
+    font-size: 25px;
+
+}
+
+.memberprofilecss .facebarjun {
+    text-align: center;
+    background-color: #E8E8E8;
+    width: 165px;
+    height: 21px;
+    border-radius: 02;
+    margin-left: 10px;
+}
+
+.memberprofilecss .fbpading {
+    padding: 2px;
+    padding: 0px;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.memberprofilecss .editable {
+    font-size: 15px;
+    color: #907d7d;
+    margin-top: 20px;
+    font-family: Roboto;
+}
+
+.memberprofilecss .btnstyleone {
+    color: #000 !important;
+    border-radius: 17px !important;
+    width: 100px;
+    background-color: #E7EDEF !important;
+    border: none !important;
+    font-size: 15px !important;
+    margin-bottom: 10px;
+    padding: 0px !important;
+    margin-right: 10px !important;
+    height: 30px;
+    font-family: Roboto;
+}
+
+.memberprofilecss .btnsizeartone {
+    margin-left: 0px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.memberprofilecss .btnsizeartonetwo {
+    margin-left: 0px;
+}
+
+.memberprofilecss .btnmemberlist {
+    width: 6%;
+    font-size: 15px;
+    border-radius: 4px !important;
+    margin: 14px 0 !important;
+    height: 30px;
+    background-color: #D19426;
+    font-weight: 700;
+    color: #000;
+    font-family: Roboto;
+}
+
+.memberprofilecss .btnmgbotton {
+    margin-bottom: 80px
+}

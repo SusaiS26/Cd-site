@@ -1,0 +1,74 @@
+/* Add your global styles here */
+
+/* .App {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+  } */
+  
+  .w3-container {
+    text-align: center;
+    margin-top: 20px;
+    /* margin-left: 100px; */
+    font-family: Roboto;
+  }
+  
+  .w3-bar {
+    /* background-color: #333; */
+    overflow: hidden;
+    font-family: Roboto;
+    margin-left: 330px
+  }
+  
+  .w3-bar button {
+    font-size: 20px;
+    font-family: Roboto;
+    float: left;
+    display: block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    /* background-color: #333; */
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .w3-bar button.active {
+    background-color: #4CAF50;
+    font-family: Roboto;
+  }
+  
+  .w3-container.city {
+    display: none;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    font-family: Roboto;
+  }
+  
+  .w3-container.city.show {
+    display: block;
+    font-family: Roboto;
+  }
+  
+  h2 {
+    color: #333;
+    font-family: Roboto;
+  }
+  
+  p {
+    color: #666;
+    font-family: Roboto;
+  }
+  .custom-table {
+    font-size: 20px;
+    font-family: Roboto;
+  }
+  .button {
+    font-size: 20px;
+    font-family: Roboto;
+  }
+  body{
+    font-family: Roboto;
+  }
